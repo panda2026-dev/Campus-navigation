@@ -1,0 +1,54 @@
+{
+  "hash": "a3986ad4",
+  "configHash": "638d00de",
+  "lockfileHash": "fe73c197",
+  "browserHash": "e6d3eb5c",
+  "optimized": {
+    "leaflet-routing-machine": {
+      "src": "../../node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.js",
+      "file": "leaflet-routing-machine.js",
+      "fileHash": "dc6677be",
+      "needsInterop": true
+    },
+    "leaflet": {
+      "src": "../../node_modules/leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "568a6ffa",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d812afba",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../node_modules/react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "b1b10fbc",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e67e6ea6",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "beace84a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-CRPLlQ3x": {
+      "file": "chunk-CRPLlQ3x.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-CC6M_LEI": {
+      "file": "react-dom-CC6M_LEI.js",
+      "isDynamicEntry": false
+    }
+  }
+}
